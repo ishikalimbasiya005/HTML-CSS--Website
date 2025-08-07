@@ -52,7 +52,7 @@ APPAREL/
 ---
 
 ## 📷 Screenshots
-![Demo](demo.png]
+![Demo](demo.png)
 
 ---
 
