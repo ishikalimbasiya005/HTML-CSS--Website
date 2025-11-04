@@ -20,12 +20,6 @@ APPAREL/
 
 ---
 
-## 🌐 Live Preview
-
-> No live preview currently hosted. You can open `index.html` in your browser to see the design.
-
----
-
 ## 💡 Features
 
 - 🔤 Google Fonts (Roboto)
